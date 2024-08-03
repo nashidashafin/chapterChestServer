@@ -2,5 +2,19 @@
   "dependencies": {
     "cors": "^2.8.5",
     "json-server": "^0.17.4"
-  }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+ 
+  "engines": {"node": ">=14.20.1"},
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
